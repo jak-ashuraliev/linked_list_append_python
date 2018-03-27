@@ -27,7 +27,7 @@ class LinkedList:
 	def __init__(self):
 		self.head = None
 
-    ### APPEND METHOD ###
+    	### APPEND METHOD ###
 	def append(self, new_data):
 
         # Create a new Node
