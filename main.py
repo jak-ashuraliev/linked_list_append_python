@@ -30,12 +30,12 @@ class LinkedList:
     	### APPEND METHOD ###
 	def append(self, new_data):
 
-        # Create a new Node
-        # Put in the data
-        # Set next to None
+        	# Create a new Node
+        	# Put in the data
+        	# Set next to None
 		new_node = Node(new_data)
 
-       	# Check if the linked list is empty, then make the new node as head
+       		# Check if the linked list is empty, then make the new node as head
 		if self.head is None:
 			self.head = new_node
 			return
