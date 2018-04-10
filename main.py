@@ -1,5 +1,5 @@
 
-# Linked list is a linear data structure and element are linked using pointers
+# Linked list is a linear data structure and elements are linked using pointers
 # Advantages? Dynamic size, saves memory, can live anywhere in the memory, ease of insertiong and deletion
 
 # Linked list consists of nodes
