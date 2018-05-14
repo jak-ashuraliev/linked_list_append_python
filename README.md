@@ -1,4 +1,4 @@
-# linked List Append using Python
+# Linked List Append using Python
 
 ### Linked list is a linear data structure and element are linked using pointers
 ### Advantages? Dynamic size, saves memory, can live anywhere in the memory, ease of insertiong and deletion
@@ -11,4 +11,4 @@
 ### Ending node of linked list is referred to as tail
 
 ### A complete working Python program to demonstrate all
-### insertion methods of linked list
+### Insertion methods of linked list
